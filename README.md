@@ -80,6 +80,12 @@ Figma
 ## OUTPUT:
 <img width="273" height="604" alt="image" src="https://github.com/user-attachments/assets/9dd025f9-7edb-4dfe-bec2-af0fb5321f82" />
 
+<img width="340" height="740" alt="image" src="https://github.com/user-attachments/assets/aece5dad-8505-4a2a-82a7-f155202b68b9" />
+
+<img width="278" height="600" alt="image" src="https://github.com/user-attachments/assets/b5ced6e4-2e78-4c9f-a411-306efd22da68" />
+
+
+
 
 
 ## RESULT:
